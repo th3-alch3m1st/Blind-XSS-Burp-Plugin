@@ -4,6 +4,7 @@ A blind XSS Burp Plugin that intercepts every request and puts a number of XSS p
 ## To Do
 
 - [ ] Add Payloads on other headers (X-Forwarded-For, Referrer, etc)
+- [ ] Add Payloads only if in Scope items
 
 ## Usage
 
